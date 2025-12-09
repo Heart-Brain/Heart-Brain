@@ -31,8 +31,8 @@ y que estos queden en abierto para consulta al alcance de cualquier persona inte
 
 **Equipo de trabajo Heart-Brain**
 
-- Francisco B. Ortega
-- Angel Toval
+- Francisco B. Ortega (Investigador principal)
+- Angel Toval (Coordinador)
 - Lucía Sánchez-Aranda
 - Esmee A. Bakker
 - Patricio Solis-Urra
