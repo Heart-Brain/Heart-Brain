@@ -23,9 +23,9 @@ y que estos queden en abierto para consulta al alcance de cualquier persona inte
 
 **Bloque 2**
 
-1.	Programa de entrenamiento HIIT+RT
-2.	Programa de entrenamiento HIIT
-3.	Grupo control
-4.	Videos explicativos del programa de ejercicio
+12.	Programa de entrenamiento HIIT+RT
+13.	Programa de entrenamiento HIIT
+14.	Grupo control
+15.	Videos explicativos del programa de ejercicio
 
 
