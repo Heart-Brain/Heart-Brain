@@ -29,3 +29,34 @@ y que estos queden en abierto para consulta al alcance de cualquier persona inte
 15.	Videos explicativos del programa de ejercicio
 
 
+**Equipo de trabajo Heart-Brain**
+
+- Francisco B. Ortega
+- Angel Toval
+- Lucía Sánchez-Aranda
+- Esmee A. Bakker
+- Patricio Solis-Urra
+- Isabel Martín-Fuentes
+- Javier Fernández-Ortega
+- Carlos Prieto Lara
+- Rosa María Alonso-Cuenca
+- Alberto González-García
+- Beatriz Fernandez-Gamez
+- Marcos Olvera-Rojas
+- Andrea Coca-Pulido
+- Darío Bellón
+- Alessandro Sclafani
+- Javier Sanchez-Martinez
+- Ricardo Rivera-López
+- Norberto Herrera-Gómez
+- Emilio J. Barranco-Moreno
+- Francisco J. Amaro-Gahete
+- Sol Vidal-Almela
+- Anna Carlén
+- Jairo H. Migueles
+- Eduardo Moreno-Escobar
+- Rocío García-Orta
+- Irene Esteban-Cornejo
+- Ana Manzano Salcedo
+- Maria Teresa Rodríguez Palacios
+- Jose Pablo Martínez Barbero
